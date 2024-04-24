@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    font-family: system-ui
+}
+body{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#header{
+    position: relative;
+    background: url("header.png");
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+
+}
+
+#inc{
+    position: relative;
+    top: 28%;
+    color: #fff;
+    font-size: 63px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#textpomenbshe{
+    position: relative;
+    top: 38%;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 11px;
+}
+
+#lm-btn{
+    position: relative;
+    left: 40%;
+    top: 40%;
+    background-color: black;
+    color: #fff;
+    width: 285px;
+    height: 70px;
+    font-size: 30px;
+    border: 0;
+}
+
+#footer{
+    position: relative;
+    top: 601px;
+    background-color: black;
+    color: #fff;
+    height: 100px;
+    max-width: 100%;
+    font-size: 20px;
+    word-spacing: 20px;
+}
+#bottom-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+#content{
+    height: 400px;
+}
+
+#cloud{ 
+    position: relative; 
+    width: 300px;
+    top: 100px;
+    left: 100px;
+    
+}
+#conference{
+    position: relative;
+    left: 450px;
+    bottom: 150px;
+    width: 850px;
+    font-size: 20px;
+}
+#text1{
+    margin-top: 10px;
+}
+
+#city{
+    position: relative;
+    background: url("city.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 690px;
+}
+
+#connect{
+    position: relative;
+    top: 240px;
+    right: 200px;
+    color: #fff;
+    text-align: right;
+    line-height: 60px;
+}
+#rec{
+    font-size: 20px;
+}
+
+#join-btn{
+    position: relative;
+    float: right;
+    top: 250px;
+    right: 200px;
+    background-color: black;
+    color: #fff;
+    width: 230px;
+    height: 70px;
+    font-size: 30px;
+    border: 0;
+}
+
+footer{
+    position: relative;
+    background-color: black;
+    color: #fff;
+    height: 150px;
+    max-width: 100%;
+    font-size: 20px;
+}
+
+#end-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
